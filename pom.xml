@@ -8,7 +8,7 @@
 
     <modules>
         <module>network-basic</module>
-        <module>netty-networking</module>
+        <module>netty-echo-server</module>
     </modules>
 
     <properties>

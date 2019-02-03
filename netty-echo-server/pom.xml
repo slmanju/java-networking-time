@@ -11,6 +11,14 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>netty-basic</artifactId>
+    <artifactId>netty-echo-server</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.33.Final</version>
+        </dependency>
+    </dependencies>
 
 </project>
